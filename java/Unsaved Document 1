@@ -1,0 +1,30 @@
+import java.util.Scanner;
+public class StudentGrade{
+  public static void main(String[]args){
+  Scanner input = new Scanner(System.in);
+  System.out.println("How many student do they have: ");
+  int students = input.nextInt();
+  
+
+  int[][]scores = new int[student][subject];
+  int[]totals = new int[student];
+  int[]positions = new int[student];
+     for(int count = 0; < student.length; count++){
+      System.out.println("Entering score for student" + count+1);
+}
+
+     int score = input.nextInt();
+   if(score > 0 && < 100){
+
+      score[count][index]
+}
+
+
+
+
+
+
+
+}
+
+}
