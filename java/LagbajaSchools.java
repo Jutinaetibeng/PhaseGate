@@ -23,6 +23,10 @@ public class LagbajaSchools{
 
   }
 
+  System.out.print("===================================================");
+System.out.print("STUDENT		SUB1	SUB2	SUB3	TOTAL	AVERAGE		POSITION");
+System.out.print("===================================================");
+
   
      return scores;
 
